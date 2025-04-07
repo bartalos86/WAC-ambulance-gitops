@@ -10,7 +10,9 @@ labels:
 resources:
 - ../../../apps/bm-ambulance-ufe
 - ../../../apps/bm-ambulance-webapi
+- ../../../apps/mongo-express
 # - ../../../apps/polyfea-md-shell
+
 
 patches:
 # - path: patches/material-design.microfrontend.yaml
