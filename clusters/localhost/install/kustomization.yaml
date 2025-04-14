@@ -19,6 +19,7 @@ patches:
 # - path: patches/polyfea-md-shell.microfrontend.yaml
 - path: patches/ambulance-webapi.service.yaml
 - path: patches/polyfea-fea.microfrontendclass.yaml
+- path: patches/mongodb-auth.secret.yaml
 
 components:
 - ../../../components/version-developers
